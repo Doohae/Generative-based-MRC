@@ -1,0 +1,5 @@
+pip install tqdm==4.48.0 -q
+pip install datasets==1.4.1 -q
+pip install transformers==4.5.0 -q
+pip install sentencepiece==0.1.95 -q
+pip install nltk -q
